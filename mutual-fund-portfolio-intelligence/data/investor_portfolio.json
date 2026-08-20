@@ -1,0 +1,19 @@
+{
+    "investor": {
+      "risk_profile": "moderate",
+      "investment_horizon_years": 5,
+      "primary_goal": "wealth_creation"
+    },
+    "holdings": [
+      {
+        "fund_name": "Aditya Birla Sun Life Banking & PSU Debt Fund - Direct - IDCW",
+        "units": 100,
+        "purchase_price": 100.0
+      },
+      {
+        "fund_name": "HDFC Flexi Cap Fund - Direct Plan - Growth",
+        "units": 50,
+        "purchase_price": 200.0
+      }
+    ]
+  }
